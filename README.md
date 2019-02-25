@@ -1,6 +1,6 @@
 # Firebase Codelab: FriendlyChat
 
-This repoincludes start and end versions of the
+This repo includes start and end versions of the
 code for Web and Cloud Functions. To get started open the codelab instructions:
  
  ![image](/home/reckerphil/pictures/Friendly_chat.png)
