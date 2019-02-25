@@ -5,6 +5,8 @@ code for Web and Cloud Functions. To get started open the codelab instructions:
 
  - [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
  - [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
+ 
+ ![image](/home/reckerphil/pictures/Friendly_chat.png)
 
 
 ## How to make contributions?
