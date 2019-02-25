@@ -1,0 +1,23 @@
+{
+  "name": "friendlychat",
+  "version": "1.0.0",
+  "description": "This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the code for Web and Cloud Functions. To get started open the codelab instructions:",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^5.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firebase/friendlychat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firebase/friendlychat/issues"
+  },
+  "homepage": "https://github.com/firebase/friendlychat#readme"
+}
